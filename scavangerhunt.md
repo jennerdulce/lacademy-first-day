@@ -1,0 +1,58 @@
+Scavenger Hunt
+- Where can you find your classroom Google drive?
+     - On slack 2022c
+- What is currently in your classroom Google drive?
+    - Daily Schedules
+    - Github PDF picture
+    - Lecture Videos
+- What is the date of the first day of your cohort's internship?
+    - August 1
+- What holidays fall during your class?
+    - Memorial Day
+    - Juneteenth
+    - Independence Day
+- What Slack channels are you in?
+    - events
+    - everybody
+    - jobs
+    - random
+- How many people are in the LEARN everybody channel?
+    - 688
+- What items are currently pinned in your cohort Slack channel?
+    - Zoom Link
+    - Screenshot of Today's Schedule
+- When are office hours this week?
+    - 5pm - 6pm Thursday
+- What is your favorite Slack emoji?
+    - `:carlton:`
+- What is the fourth unit of the class?
+    - Ruby
+- What should you do if you are going to miss class?
+    - Let the staff and your partners know ahead of time
+    - Follow up on any way that you can make up the work or handle things so that you are able to contribute
+- What time does the classroom Zoom open every morning?
+    - 8:45am
+- What is the tech stack at LEARN?
+    - React
+    - Ruby
+    - Ruby on rails
+    - PostgreSQL
+    - Javascript
+- What terminal command will show you all the content of your current directory?
+    - `ls`
+- What is the terminal command to move one level closer to the root directory?
+    - `cd ..`
+- How do you open your preferred text editor from the terminal?
+    - `code .`
+- In HTML and CSS, what is the difference between a class and an id?
+    - id is unique
+    - classes can be put on multiple tags
+- What is an HMTL attribute?
+    - a way to configure a tag
+- What is CSS?
+    - cascading style sheet
+    - used to style html / webpages
+- What is git?
+    - version control system
+    - tracks and records changes so that we can reference old and newer versions of a file
+    - local
